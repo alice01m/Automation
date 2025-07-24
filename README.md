@@ -1,6 +1,6 @@
 # Automated tests 
 
-Automated tests that I have created using Cypress. 
+A collection of Cypress-based automated tests designed to verify key functionalities of the SauceDemo website.
 
 ## Overview
 
